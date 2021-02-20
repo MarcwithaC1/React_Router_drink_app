@@ -1,1 +1,1 @@
-Uses React Router, External API, dynamic dearch results to update constantly update state.  
+Uses React Router, External API, dynamic search results to constantly update state.  
